@@ -1,0 +1,6 @@
+{
+  "name": "COSMOS Robot - Central de Controle & IA",
+  "description": "Painel de controle profissional, simulador facial FluxGarage RoboEyes, telemetria serial e laboratório de IA para o robô ESP32 COSMOS.",
+  "permissions": [],
+  "capabilities": []
+}
